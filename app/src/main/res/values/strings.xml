@@ -1,5 +1,11 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Minha Agenda</string>
     <string name="btn_cc">Criar compromissos</string>
     <string name="btn_vc">Ver Compomissos</string>
+    <string name="txt_desc">descricao</string>
+    <string name="txt_tipo">tipo</string>
+    <string name="txt_data">data</string>
+    <string name="txt_hora">hora</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancelar</string>
 </resources>
